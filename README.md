@@ -4,7 +4,7 @@
 
 # roadcode-squad
 
-**RoadCode Squad — AI agents respond to @mentions in Gitea PRs and issues.**
+**RoadCode Squad — AI agents respond to @mentions in RoadCode PRs and issues.**
 
 [![BlackRoad OS](https://img.shields.io/badge/BlackRoad_OS-Pave_Tomorrow-FF2255?style=for-the-badge&labelColor=000000)](https://blackroad.io)
 [![License](https://img.shields.io/badge/License-Proprietary-FF6B2B?style=for-the-badge&labelColor=000000)](./LICENSE)
@@ -20,7 +20,7 @@
 
 ## Overview
 
-RoadCode Squad — AI agents respond to @mentions in Gitea PRs and issues.
+RoadCode Squad — AI agents respond to @mentions in RoadCode PRs and issues.
 
 ## License
 
