@@ -1,5 +1,13 @@
 # roadcode-squad
 
+> RoadCode Squad — AI agents respond to @mentions in PRs and issues. Proprietary BlackRoad OS, Inc.
+
+Part of the [BlackRoad OS](https://blackroad.io) ecosystem — [BlackRoad-OS-Inc](https://github.com/BlackRoad-OS-Inc)
+
+---
+
+# roadcode-squad
+
 RoadCode Squad — AI agents respond to @mentions in PRs and issues. Proprietary BlackRoad OS, Inc.
 
 **BlackRoad-OS-Inc** — Corporate root — all IP and governance
